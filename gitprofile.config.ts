@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://chocolate-marje-76.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ivanmeister-cv.tiiny.site/', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
